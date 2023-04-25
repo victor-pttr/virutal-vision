@@ -65,4 +65,5 @@ public class Product {
 		this.onLine = onLine;
 	}
 
+
 }
